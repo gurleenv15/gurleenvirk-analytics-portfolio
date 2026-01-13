@@ -6,7 +6,7 @@ This repository showcases applied analytics, machine learning, and causal infere
 - Analyzed USDT adoption, transfer volume, wallet concentration, and peg stability
 - Evaluated stablecoins as a scalable payment rail
 
-### 2. Healthcare RCT Impact Study (R)
+### 2. Healthcare RCT Impact Study (R) 
 - Conducted causal inference using randomized controlled trial data
 - Estimated treatment effects on healthcare utilization and cost
 - Delivered statistically grounded policy recommendations
