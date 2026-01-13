@@ -6,18 +6,24 @@ This repository showcases applied analytics, machine learning, and causal infere
 - Analyzed USDT adoption, transfer volume, wallet concentration, and peg stability
 - Evaluated stablecoins as a scalable payment rail
 
-### 2. Healthcare RCT Impact Study (R) 
+### 2. Humanoid Robotics Strategy Analysis
+- Compared **Tesla Optimus vs Agility Digit** using mixed-method analytics: text signals, visuals, leadership “DNA,” and investment framing  
+- Translated technical findings into executive insights about **readiness, credibility, and go-to-market narratives**  
+- Built a risk-aware investment lens (single-stock vs diversified ecosystem exposure) using HUMN holdings + TSLA benchmarking
+
+### 3. Restaurant Market Analysis with SQL & Azure (Yelp Data)
+- Built an end-to-end data pipeline to ingest, transform, and store large Yelp JSON datasets in Azure SQL
+- Designed normalized schemas with proper keys and constraints for scalable querying
+- Wrote strategic SQL queries to identify market gaps, customer preferences, and location opportunities
+- Translated raw review data into actionable insights for restaurant concept and site selection
+
+### 4. Healthcare RCT Impact Study (R) 
 - Conducted causal inference using randomized controlled trial data
 - Estimated treatment effects on healthcare utilization and cost
 - Delivered statistically grounded policy recommendations
 
-### 3. Humanoid Robotics Strategy Analysis
-- Compared **Tesla Optimus vs Agility Digit** using mixed-method analytics: text signals, visuals, leadership “DNA,” and investment framing  
-- Translated technical findings into executive insights about **readiness, credibility, and go-to-market narratives**  
-- Built a risk-aware investment lens (single-stock vs diversified ecosystem exposure) using HUMN holdings + TSLA benchmarking
-- 
 
-### 4. Teenage Driving & Mortality (Regression Discontinuity, R)
+### 5. Teenage Driving & Mortality (Regression Discontinuity, R)
 - Applied a regression discontinuity design to estimate the causal impact of driving eligibility on teen mortality
 - Analyzed changes in all-cause and motor vehicle–related death rates around the legal driving age cutoff
 - Produced policy-relevant insights on early-driver risk and graduated licensing interventions
