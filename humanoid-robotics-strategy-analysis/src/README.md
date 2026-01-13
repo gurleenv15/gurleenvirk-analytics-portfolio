@@ -1,6 +1,6 @@
 ## Source Code Structure
 
-This folder contains modular Wolfram Language (`.wl`) files. Each file focuses on a specific analytical question and can be run independently once the setup file is executed.
+This folder contains modular Wolfram Language (`.wl`) files. Each file focuses on a specific analytical question 
 
 ### File Overview
 - `00_config_and_setup.wl` – Global settings, helper functions, and directory configuration
