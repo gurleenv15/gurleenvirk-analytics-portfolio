@@ -1,28 +1,30 @@
-# Humanoid Robotics: Strategy, Branding, and Investment Analysis
+# Branding the Robot Worker  
+### How Tesla and Agility Robotics Use Visual Storytelling to Sell the Future of Humanoid Labor
 
 ## Overview
-This project analyzes how Tesla (Optimus) and Agility Robotics (Digit) position humanoid robots as the future of industrial labor. Using text analysis, visual theme tagging, leadership background evaluation, and investment data, the project evaluates which narrative appears more credible from a business and investment standpoint.
+This project examines how Tesla (Optimus) and Agility Robotics (Digit) visually and narratively position humanoid robots as the future of factory and warehouse labor. Using a combination of text analysis, visual theme categorization, leadership background analysis, and investment exposure comparison, the project evaluates which company’s story appears more credible from a strategic and investment standpoint.
 
-## Key Questions
-- How do robotics companies frame humanoid labor: long-term AI vision or near-term operational utility?
-- Do leadership backgrounds align with stated strategy?
-- Is it more rational to invest in a single visionary company or a diversified robotics ecosystem?
+## Core Question
+How do Tesla and Agility Robotics visually and narratively position humanoid robots as the future of factory work, and which company’s story looks more credible from an investment perspective?
 
 ## Methods
 - Website text analysis and keyword frequency comparison
-- Visual theme categorization of marketing imagery
+- Visual storytelling analysis of marketing imagery
 - Leadership and executive background analysis
-- Geographic footprint mapping
-- Investment comparison: Tesla vs HUMN Robotics ETF
+- Geographic and organizational context review
+- Investment comparison between Tesla and the HUMN Robotics ETF
 
 ## Key Findings
-- Tesla emphasizes futuristic AI narratives and long-horizon disruption.
-- Agility Robotics focuses on warehouse deployment, safety, and human-robot collaboration.
-- Leadership backgrounds strongly reinforce each firm’s strategic posture.
-- From a risk-adjusted perspective, diversified exposure via the HUMN ETF provides a more balanced entry into humanoid robotics.
-
-## Tools
-Wolfram Language, Text Analysis, Data Visualization, Financial Data APIs
+- Tesla’s Optimus branding emphasizes long-horizon AI narratives, futurism, and autonomy.
+- Agility Robotics focuses on near-term deployment, warehouse integration, safety, and human–robot collaboration.
+- Leadership backgrounds reinforce these strategic differences: Tesla leaders skew toward AI and engineering vision, while Agility leadership emphasizes robotics deployment and operations.
+- From a risk-adjusted perspective, diversified exposure through the HUMN ETF provides a more balanced way to invest in humanoid robotics than betting on a single firm.
 
 ## Why This Matters
-This project demonstrates how quantitative and qualitative data can be combined to evaluate emerging AI technologies, organizational strategy, and investment risk — a critical skill in analytics, consulting, and AI strategy roles.
+As humanoid robots move closer to real-world deployment, understanding how companies frame labor, automation, and credibility is essential for AI strategy, analytics consulting, and technology investment decision-making.
+
+## Repo Guide
+- `src/` – Modular Wolfram Language analysis files
+- `visuals/` – Exported charts and visual artifacts
+- `report/` – Full written case study
+- `data_sources.md` – Documentation of public data sources
