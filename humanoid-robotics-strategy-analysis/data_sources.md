@@ -1,12 +1,11 @@
 ## Data Sources
 
-This project relies exclusively on public, non-proprietary sources:
+This project relies exclusively on public, non-proprietary information:
 
-- Tesla corporate website and AI/Optimus materials
-- Agility Robotics website and leadership pages
-- USPTO and Google Patents (humanoid robotics-related filings)
-- HUMN ETF holdings (Roundhill Investments)
-- Public financial market data (Wolfram FinancialData)
+- Tesla corporate website and Optimus AI materials
+- Agility Robotics website, product pages, and leadership profiles
+- Public executive biographies and LinkedIn summaries
+- HUMN Robotics & AI ETF holdings and disclosures
+- Public financial market data accessed via Wolfram Language
 
-All analyses, categorizations, and interpretations were conducted independently.
-
+All categorization, interpretation, and synthesis were conducted independently.
