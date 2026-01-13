@@ -58,7 +58,8 @@ Investment Conclusion:
 For most investors, HUMN offers a more balanced and diversified entry into humanoid robotics, while Tesla remains appropriate for highly risk‑tolerant investors seeking concentrated upside from Optimus.
 
 -- 6.5 Final Integrated Conclusion
-By combining website language, visual storytelling, leadership backgrounds, and investment data, we find that:
+
+By combining website language, visual storytelling, leadership backgrounds, and investment data, it is found that:
 
 Tesla and Agility represent two fundamentally different strategies within humanoid robotics.
 
