@@ -15,3 +15,8 @@ This repository showcases applied analytics, machine learning, and causal infere
 - Developed LASSO and regression models for Cook County property valuation
 - Balanced predictive accuracy with model interpretability
 - Applied feature selection and cross-validation
+
+### 4. Teenage Driving & Mortality (Regression Discontinuity, R)
+- Applied a regression discontinuity design to estimate the causal impact of driving eligibility on teen mortality
+- Analyzed changes in all-cause and motor vehicle–related death rates around the legal driving age cutoff
+- Produced policy-relevant insights on early-driver risk and graduated licensing interventions
