@@ -11,7 +11,7 @@ This repository showcases applied analytics, machine learning, and causal infere
 - Estimated treatment effects on healthcare utilization and cost
 - Delivered statistically grounded policy recommendations
 
-### 3. Humanoid Robotics Strategy Analysis (Wolfram)
+### 3. Humanoid Robotics Strategy Analysis
 - Compared **Tesla Optimus vs Agility Digit** using mixed-method analytics: text signals, visuals, leadership “DNA,” and investment framing  
 - Translated technical findings into executive insights about **readiness, credibility, and go-to-market narratives**  
 - Built a risk-aware investment lens (single-stock vs diversified ecosystem exposure) using HUMN holdings + TSLA benchmarking
