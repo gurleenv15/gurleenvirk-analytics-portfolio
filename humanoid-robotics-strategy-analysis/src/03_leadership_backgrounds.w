@@ -78,9 +78,7 @@ Grid[
 teslaBackgrounds  = teslaLeadership[[All, 5]];
 agilityBackgrounds = agilityLeadership[[All, 5]];
 
-(* Counts needed later for the grouped bar chart
-   NOTE: Your original code referenced teslaBackgroundCounts/agilityBackgroundCounts
-   but did not define them. Defining them here preserves your intended workflow. *)
+(* Counts needed later for the grouped bar chart*)
 teslaBackgroundCounts  = Counts[teslaBackgrounds];
 agilityBackgroundCounts = Counts[agilityBackgrounds];
 
@@ -188,7 +186,7 @@ ListPlot[
   ImageSize -> Medium
 ];
 
-(* Correlation (NOTE: with only two points, correlation will be extreme; interpret cautiously) *)
+(* Correlation *)
 correlation = Correlation[{academicCountTesla, academicCountAgility}, {teslaPatents, agilityPatents}];
 Print["Correlation between academic leadership and patents: ", N[correlation, 3]];
 
