@@ -25,6 +25,6 @@ As humanoid robots move closer to real-world deployment, understanding how compa
 
 ## Repo structure
 - `report/` — full written case study PDF
-- `outputs/` — exported tables and figures (fast to skim)
+- `visuals/` — exported figures and images 
 - `src/` — Wolfram scripts split by business question
 - `data_sources.md` — public references used in the analysis
