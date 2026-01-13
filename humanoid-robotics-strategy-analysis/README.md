@@ -23,8 +23,8 @@ How do Tesla and Agility Robotics visually and narratively position humanoid rob
 ## Why This Matters
 As humanoid robots move closer to real-world deployment, understanding how companies frame labor, automation, and credibility is essential for AI strategy, analytics consulting, and technology investment decision-making.
 
-## Repo Guide
-- `src/` – Modular Wolfram Language analysis files
-- `visuals/` – Exported charts and visual artifacts
-- `report/` – Full written case study
-- `data_sources.md` – Documentation of public data sources
+## Repo structure
+- `src/` — Wolfram scripts split by business question (reproducible pipeline)
+- `outputs/` — exported tables and figures (fast to skim)
+- `report/` — full written case study PDF
+- `data_sources.md` — public references used in the analysis
