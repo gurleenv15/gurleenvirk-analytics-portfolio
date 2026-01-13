@@ -1,4 +1,4 @@
-Purpose: This section defines the public sources used for the narrative comparison and creates a consistent text-ingestion pipeline for both companies. We attempt to import plain text directly from each company’s website, but Tesla’s site is heavily scripted, so we manually paste the text to ensure we analyze the actual branding language. This setup stage ensures the downstream text analysis (top words, word clouds, keyword comparisons) is reproducible and based on comparable inputs.
+(*Purpose: This section defines the public sources used for the narrative comparison and creates a consistent text-ingestion pipeline for both companies. We attempt to import plain text directly from each company’s website, but Tesla’s site is heavily scripted, so we manually paste the text to ensure we analyze the actual branding language. This setup stage ensures the downstream text analysis (top words, word clouds, keyword comparisons) is reproducible and based on comparable inputs.
 (*
 Module: 00 — Data Configuration & Setup
 Project: Branding the Robot Worker (Tesla vs Agility Robotics)
@@ -87,20 +87,3 @@ agilityTopWords = getTopWordCounts[agilityText, 25];
 teslaTopWords
 agilityTopWords
 
-(* ----------------------------- *)
-(* 5) Word cloud generation      *)
-(* ----------------------------- *)
-
-(* Tesla word cloud *)
-cleanWords = DeleteStopwords[TextWords[ToLowerCase[teslaText]]];
-wordCounts = Tally[cleanWords];
-sorted = Reverse@SortBy[wordCounts, Last];
-top20 = sorted[[ ;; Min[20, Length[sorted]]]];
-WordCloud[top20]
-
-(* Agility word cloud *)
-cleanWords = DeleteStopwords[TextWords[ToLowerCase[agilityText]]];
-wordCounts = Tally[cleanWords];
-sorted = Reverse@SortBy[wordCounts, Last];
-top20 = sorted[[ ;; Min[20, Length[sorted]]]];
-WordCloud[top20]
